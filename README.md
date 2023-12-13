@@ -4,3 +4,4 @@
 <li>Multiples.
 <li>Digits Summation.
 <li>The Brothers.
+<li>Comparisons.
