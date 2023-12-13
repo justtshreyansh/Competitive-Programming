@@ -5,3 +5,4 @@
 <li>Digits Summation.
 <li>The Brothers.
 <li>Comparisons.
+<li>Max and Min.
