@@ -9,3 +9,7 @@
 <li>Memo and Momo.
 <li>Ali baba and Puzzles.
 <li>Watermelon.
+<li>In Search of easy problem.
+<li>Queue at the school.
+<li>Word.
+<li>Even Array.
