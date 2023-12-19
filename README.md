@@ -14,3 +14,4 @@
 <li>Word.
 <li>Even Array.
 <li>Even Odd positive and negative.
+<li>Divisors.
