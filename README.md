@@ -16,3 +16,4 @@
 <li>Even Odd positive and negative.
 <li>Divisors.
 <li>One Prime.
+<li>Pattern Question.
