@@ -19,3 +19,4 @@
 <li>Pattern Question.
 <li>Fibonacci.
 <li>Permutations with array.
+<li>Pattern 2.
