@@ -18,3 +18,4 @@
 <li>One Prime.
 <li>Pattern Question.
 <li>Fibonacci.
+<li>Permutations with array.
