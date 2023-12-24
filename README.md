@@ -21,3 +21,4 @@
 <li>Permutations with array.
 <li>Pattern 2.
 <li>Pattern 3.
+<li>Halloumi Boxes.
