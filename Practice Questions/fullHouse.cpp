@@ -21,10 +21,10 @@ int main(){
         }
     }
     if(count1 && count2){
-        cout<<"YES"<<endl;
+        cout<<"Yes"<<endl;
     }
     else{
-        cout<<"NO"<<endl;
+        cout<<"No"<<endl;
     }
     return 0;
 }
