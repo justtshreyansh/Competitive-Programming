@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
-    return 0;
+    
     int t;
     cin>>t;
     while(t--){
@@ -11,7 +11,7 @@ int main(){
         for(int i=1;i<=n;i++){
             cin>>arr[i];
         }
-        //2 0 0
+        
         long long countZ = 0;
         long long ans = 0;
         bool flag = false;
@@ -24,5 +24,7 @@ int main(){
 
         }
         cout<<ans+countZ<<endl;
+
     }
+    return 0;
 }
