@@ -30,3 +30,4 @@
 <li>Rotate.
 <li>Fill the Gaps.
 <li>Same Map in the RPG World.
+<li>Three numbers.
