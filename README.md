@@ -35,3 +35,4 @@
 <li>Mark the duster sweeper.
 <li>Subset Mex.
 <li>Array cancellation.
+<li>Minimize Ordering.
