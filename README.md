@@ -36,3 +36,4 @@
 <li>Subset Mex.
 <li>Array cancellation.
 <li>Minimize Ordering.
+<li>Pasta
