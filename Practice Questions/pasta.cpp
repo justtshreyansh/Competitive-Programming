@@ -38,17 +38,4 @@ int main(){
     }
     return 0;
 }
- // sort(noodle,noodle+n);
-    // reverse(noodle,noodle+n);
-    // sort(days,days+m);
-    // reverse(days,days+m);
-    // bool flag = false;
-    // for(int i=0;i<m;i++){
-    //     if(noodle[i]!=days[i]){
-    //         cout<<"No"<<endl;
-    //         flag= true;
-    //     } 
-    // }
-    // if(flag==false){
-    //     cout<<"Yes"<<endl;
-    // }
+ 

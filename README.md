@@ -36,4 +36,5 @@
 <li>Subset Mex.
 <li>Array cancellation.
 <li>Minimize Ordering.
-<li>Pasta
+<li>Pasta.
+<li>Go straight and turn right.
