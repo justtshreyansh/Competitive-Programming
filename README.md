@@ -38,3 +38,4 @@
 <li>Minimize Ordering.
 <li>Pasta.
 <li>Go straight and turn right.
+<li>Holiday of equality.
