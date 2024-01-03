@@ -42,3 +42,4 @@
 <li>At most 3.
 <li>Numbers group.
 <li>Counting Divisors.
+<li>Equation.
