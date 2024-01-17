@@ -50,3 +50,4 @@
 <li>Lucky division.
 <li>Maximum GCD.
 <li>Odd divisior.
+<li>Square difference.
