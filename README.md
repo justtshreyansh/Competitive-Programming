@@ -51,3 +51,5 @@
 <li>Maximum GCD.
 <li>Odd divisior.
 <li>Square difference.
+<li>GCD Arrays.
+<li>Proper nutrition.
