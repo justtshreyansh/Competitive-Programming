@@ -47,3 +47,6 @@
 <li>XXYYX.
 <li>TMT Document.
 <li>Mirror Grid.
+<li>Lucky division.
+<li>Maximum GCD.
+<li>Odd divisior.
