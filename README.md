@@ -56,3 +56,4 @@
 <li>Noldbach problem.
 <li>GCD Problem.
 <li>Make them odd.
+<li>Co Prime Array.
