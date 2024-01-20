@@ -55,3 +55,4 @@
 <li>Proper nutrition.
 <li>Noldbach problem.
 <li>GCD Problem.
+<li>Make them odd.
