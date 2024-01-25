@@ -6,19 +6,7 @@ int main(){
     while(t--){
         int n;
         cin>>n;
-        bool flag = false;
-        for(int a=2;a<=n;a++){
-            for(int b=2;b<=n;b++){
-                
-                if(n%a==n%b && a!=b){
-                    cout<<a<<" "<<b<<endl;
-                    flag = true;
-                    break;
-                } 
-                
-            }
-            if(flag) break;
-        }
+        cout<<2<<" "<<n-1<<endl;
     }
     return 0;
 }

@@ -60,3 +60,4 @@
 <li>Divisibility problem.
 <li>Multiplication 2.
 <li>Anti Division.
+<li>Gregory and cryptography.
