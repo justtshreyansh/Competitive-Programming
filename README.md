@@ -61,3 +61,4 @@
 <li>Multiplication 2.
 <li>Anti Division.
 <li>Gregory and cryptography.
+<li>Kth common divisior.
