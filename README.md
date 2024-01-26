@@ -62,3 +62,4 @@
 <li>Anti Division.
 <li>Gregory and cryptography.
 <li>Kth common divisior.
+<li>Modulo summation.
