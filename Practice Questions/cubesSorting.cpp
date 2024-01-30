@@ -12,13 +12,13 @@ int main(){
         }
         bool flag = false;
         for(int i=1;i<n;i++){
-            if(arr[i]<arr[i-1]){
+            if(arr[i]>=arr[i-1]){
                 flag = true;
                 break;
             }
         }
-        if(flag) cout<<"NO"<<endl;
-        else cout<<"YES"<<endl;
+        if(flag) cout<<"YES"<<endl;
+        else cout<<"NO"<<endl;
     }
     return 0;
 }
