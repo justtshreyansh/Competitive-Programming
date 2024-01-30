@@ -67,3 +67,4 @@
 <li>Gravity flip.
 <li>Ehab fails to be thanos.
 <li>Cube sortings.
+<li>Even odd game.
