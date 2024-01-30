@@ -65,3 +65,4 @@
 <li>Modulo summation.
 <li>Equal candies.
 <li>Gravity flip.
+<li>Ehab fails to be thanos.
