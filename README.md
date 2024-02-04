@@ -68,4 +68,4 @@
 <li>Ehab fails to be thanos.
 <li>Cube sortings.
 <li>Even odd game.
-<li>Playing in a casion.
+<li>Playing in a casion
