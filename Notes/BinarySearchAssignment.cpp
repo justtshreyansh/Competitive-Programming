@@ -6,7 +6,7 @@ int main(){
     int k = 2;
     //check whether the given integer exist in the array or not
     if(binary_search(arr.begin(),arr.end(),k)){
-        cout<<"K is present in the array"<<endl;
+        cerr<<"K is present in the array"<<endl;
     }
     else cout<<"K is not present in the array"<<endl;
 
@@ -26,7 +26,7 @@ int main(){
     cout<<"Index of its 6th occurence is:"<<firstOccurence-arr.begin()+5<<endl;
 
     //index of its last 3rd occurence
-    cout<<"Index of its last 3rd occurence is:"<<lastOccurence-arr.begin()-1-2<<endl;
+    cerr<<"Index of its last 3rd occurence is:"<<lastOccurence-arr.begin()-1-2<<endl;
 
 
     return 0;
